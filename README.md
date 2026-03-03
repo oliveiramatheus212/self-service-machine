@@ -28,6 +28,7 @@ Uma aplicação web interativa para um totem de auto-atendimento de fast food, p
 
 ## 🛠️ Tecnologias Utilizadas
 
+- **Vue3** - Estrutura
 - **HTML5** - Estrutura
 - **CSS3** - Estilização responsiva
 - **JavaScript Vanilla** - Lógica da aplicação
