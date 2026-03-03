@@ -105,3 +105,6 @@ Certifique-se de adicionar a imagem na pasta `img/`.
 Este projeto é um estudo de caso educacional.
 
 ---
+
+<img width="895" height="682" alt="image" src="https://github.com/user-attachments/assets/eeead0aa-01de-47db-a991-39c15fb3e191" />
+
